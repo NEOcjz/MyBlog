@@ -8,11 +8,8 @@ hero:
   tagline: 前端
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /HTML
     - theme: alt
       text: View on gitee
       link: https://gitee.com/cheng-jingze
@@ -34,7 +31,7 @@ features:
     title: Vue
     details: Vue
   - icon: 🛣
-    title: Vue Router
+    title: VueRouter
     details: Vue Router
   - icon: 🔑
     title: Pinia
