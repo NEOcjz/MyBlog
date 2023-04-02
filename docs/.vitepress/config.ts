@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:'/MyBlog/',
-  title: "Personal Blog",
-  description: "My Personal Blog",
+  title: "程敬泽的个人博客",
+  description: "亿点记录",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Personal Blog"
-  text: "My Personal Blog"
+  name: "程敬泽的个人博客"
+  text: "亿点记录"
   tagline: 前端
   actions:
     - theme: brand
@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: View on gitee
       link: https://gitee.com/cheng-jingze
+    - theme: alt
+      text: View on github
+      link: https://github.com/NEOcjz
 
 features:
   - icon: 💡
@@ -28,7 +31,6 @@ features:
     title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
 <style>
   :root {
     --vp-home-hero-name-color: transparent;
