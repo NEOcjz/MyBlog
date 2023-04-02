@@ -21,15 +21,24 @@ hero:
       link: https://github.com/NEOcjz
 
 features:
-  - icon: 💡
-    title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📦
+    title: HTML
+    details: HTML
   - icon: ⚡️
-    title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: CSS
+    details: CSS
   - icon: 🛠️
-    title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: JavaScript
+    details: JavaScript
+  - icon: 💡
+    title: Vue
+    details: Vue
+  - icon: 🛣
+    title: Vue Router
+    details: Vue Router
+  - icon: 🔑
+    title: Pinia
+    details: Pinia
 ---
 <style>
   :root {
