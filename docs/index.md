@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /HTML
+      link: /HTML/HTML
     - theme: alt
       text: View on gitee
       link: https://gitee.com/cheng-jingze
