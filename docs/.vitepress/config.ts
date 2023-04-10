@@ -4,7 +4,10 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     base: "/MyBlog/",
     title: "程敬泽的个人博客",
-    description: "亿点记录",
+    description: "一点记录",
+    head:[
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
