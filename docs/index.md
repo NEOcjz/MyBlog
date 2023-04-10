@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "程敬泽的个人博客"
-  text: "亿点记录"
+  text: "一点记录"
   tagline: 前端
   actions:
     - theme: brand
